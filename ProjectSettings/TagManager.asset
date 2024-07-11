@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - S
+  - Z
+  - O
+  - L
+  - J
+  - I
+  - T
+  - T Middle
+  - T-Tetromino
+  - Ghost
+  - Player1_Grid
+  - Player2_Grid
+  - Player1Character
+  - Player2Character
+  - PvpScriptHolder
+  - Ghost UI
+  - Player1
+  - Player2
+  - P1 Block Holder
+  - P2 Block Holder
+  - Unremoveable
+  - P1_4
+  - P1_6
+  - P2_4
+  - P2_6
+  - P1_4_Gauge
+  - P1_6_Gauge
+  - P2_4_Gauge
+  - P2_6_Gauge
+  - P1_Trash_Gauge
+  - P2_Trash_Gauge
+  - GameOverScreen
+  - Garbage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Post Processing
+  - No Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

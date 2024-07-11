@@ -1,0 +1,3 @@
+rep "Neo Tetris@Spooky_Tetris@cloud"
+  path "/"
+    smartbranch "/main"

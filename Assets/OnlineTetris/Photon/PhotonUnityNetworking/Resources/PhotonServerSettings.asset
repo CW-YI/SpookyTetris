@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 699613b5-5390-4e64-9d0b-478c45b42c4b
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: jp
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - RPC_DeletLine
+  - RowDown
+  - UpdateGridElement
+  - deleteLine
+  - AddToGrid
+  - DownRow
+  - RPC_DestroyForAll
+  - RPC_AddToGrid
+  - Player1_RowUp
+  - Player2_RowUp
+  - GarbageLinePlus_Player1
+  - GarbageLinePlus_Player2
+  - MoveToScene_CharacterSelct
+  - RPC_MoveScene
+  - Player1NameChange
+  - Player2NameChange
+  - Player1_AddGarbageLinesFromOpponent
+  - Player2_AddGarbageLinesFromOpponent
+  - Player1ToReady
+  - Player2ToReady
+  - Player1ReInstantiatePrefab
+  - Player2ReInstantiatePrefab
+  - Player1InputOnGrid
+  - Player2InputOnGrid
+  - is2inRoomTrue
+  - CreateGrid
+  - updateGaugePlayer1
+  - updateGauge
+  - updateGaugePlayer2
+  - GarbageLinePlus_Combo_Player1
+  - GarbageLinePlus_RowsDeleted_Player1
+  - GarbageLinePlus_RowsDeleted_Player2
+  - GarbageLinePlus_Combo_Player2
+  - GarbageLinePlus_Combo_ToPlayer1
+  - GarbageLinePlus_Combo_ToPlayer2
+  - GarbageLinePlus_RowsDeleted_ToPlayer1
+  - GarbageLinePlus_RowsDeleted_ToPlayer2
+  - GarbageLinePlus_RowsDeleted_FromPlayer1
+  - GarbageLinePlus_Combo_FromPlayer1
+  - GarbageLinePlus_RowsDeleted_FromPlayer2
+  - GarbageLinePlus_Combo_FromPlayer2
+  - GarbageLinePlus_FromPlayer1
+  - GarbageLinePlus_FromPlayer2
+  - AddRowToPlayer1
+  - AddRowToPlayer2
+  - UseSkillOnPlayer1
+  - UseSkillOnPlayer2
+  - UpdateUI_P1
+  - SetNumberOfLines_P1
+  - SetNumberOfLines_P2
+  - Mummy_ActiveAbility
+  - SetToReady
+  - RoomNameSettingP2
+  - Player1Selected
+  - Player2Selected
+  - PlayerLoadScnene
+  - StartCharacterSelect_RPC
+  - CreateBlocks
+  - ShowWarning
+  - UpdateGaugePlayer1
+  - UpdateGaugePlayer2
+  - UpdateGrid1
+  - UpdateGrid2
+  - DestroyBlocks
+  - BlinkOff
+  - BlinkOn
+  - StartMummyActiveAbility
+  - InitializeSkillGauges
+  - SetPlayer1SkillGauge
+  - SetPlayer2SkillGauge
+  - SetP1TrashGauge
+  - SetP2TrashGauge
+  - P1_UpdateTrashGauge
+  - P2_UpdateTrashGauge
+  - P1_UpdateTrashGauge_RPC
+  - P2_UpdateTrashGauge_RPC
+  - ResetGrid
+  - Reinstantiate
+  - ShowResult_RPC
+  - UpdateUI
+  - FindCharacterIndex_Player1
+  - FindCharacterIndex_Player2
+  - Initialize
+  - SyncStartTime
+  - SyncP1Values
+  - SyncP2Values
+  - BlockGrid
+  - SetBoolAsTrue
+  - SetBoolAsTrue_P1
+  - SetBoolAsTrue_P2
+  - Uninit
+  - RPC_P1_CheckGarbageLine
+  - RPC_P2_CheckGarbageLine
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
+  DevRegionSetOnce: 1
