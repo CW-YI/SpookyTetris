@@ -10,6 +10,10 @@
 <h2> 팀원 소개 </h2>
 <table>
   <tr>
+    <th>파트</th>
+    <th>이름</th>
+  </tr>
+  <tr>
     <td>PM</td>
     <td>이채원</td>
   </tr>
